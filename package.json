@@ -1,0 +1,19 @@
+{
+  "name": "express_fil_rouge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmelieChevalier/express_fil_rouge.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AmelieChevalier/express_fil_rouge/issues"
+  },
+  "homepage": "https://github.com/AmelieChevalier/express_fil_rouge#readme"
+}
